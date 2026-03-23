@@ -18,20 +18,24 @@
 
 ## 📸 צילומי מסך
 
-### מסך ברוכים הבאים
+### מסך פתיחה — ברוכים הבאים
 ![מסך פתיחה](screenshots/welcome.jpg)
 
-### בחירת סגנון פוסט
-![בחירת טון](screenshots/tone_selection.jpg)
+### הודעת הפתיחה — /start
+> הבוט מסביר כיצד הוא עובד ומציג דוגמאות לשימוש
+![הודעת פתיחה](screenshots/start_welcome.png)
 
-### פוסט מקצועי שנוצר
-![פוסט מקצועי](screenshots/professional_post.jpg)
+### שליחת URL של GitHub
+> המשתמש שולח לינק לפרויקט GitHub — הבוט מזהה אותו ומציג תצוגה מקדימה
+![GitHub URL](screenshots/github_url_input.png)
 
-### פוסט מ-URL של GitHub
-![פוסט מ-GitHub](screenshots/github_post.jpg)
+### הבוט קורא את הנתונים
+> הבוט שולף את פרטי הפרויקט מ-GitHub ומתחיל לכתוב את הפוסט
+![טעינה](screenshots/post_loading.png)
 
-### כלי עריכה ושיפור
-![כלי שיפור](screenshots/refine_tools.jpg)
+### פוסט לינקדאין שנוצר מ-GitHub
+> פוסט מקצועי מוכן לפרסום, שנוצר אוטומטית מהמידע בפרויקט
+![פוסט שנוצר](screenshots/github_post_generated.png)
 
 ---
 
